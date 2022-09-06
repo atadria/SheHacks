@@ -1,1 +1,4 @@
 notebook==6.4.12
+pandas==1.4.4
+scikit-learn==1.1.2
+stop-words==2018.7.23
