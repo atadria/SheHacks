@@ -8,4 +8,4 @@ using Python and basic machine learning models.
 0) [venv + git](env.md)
 1) Reading and cleaning data #[pandas](data_reading.ipynb)
 2) Simple ML models #[scikit-learn](ml_model.ipynb)
-3) Data visualization with dashboards #[dash](dash_sample_app)
+3) Data visualization with dashboards #[dash](dash_app.ipynb)
